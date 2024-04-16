@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TelaNovaViagem</string>
+    <string name="destino">Destino</string>
+    <string name="orcamento">Orçamento</string>
+    <string name="tipo">Tipo</string>
+    <string name="datainicio">Data de Início</string>
+    <string name="datafinal">Data Final</string>
+
+</resources>
